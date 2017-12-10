@@ -1,0 +1,9 @@
+Beijing Language and Culture University, 2017/2018
+Final project:
+"Analysis and visualization of consonant clusters in Polish language based on National Corpus of Polish"
+
+Material: http://clip.ipipan.waw.pl/NationalCorpusOfPolish
+
+In linguistics, a consonant cluster, consonant sequence or consonant compound is a group of consonants which have no intervening vowel. In English, for example, the groups /spl/ and /ts/ are consonant clusters in the word splits.
+Many Slavic languages may manifest almost as formidable numbers of consecutive consonants, such as in the Slovak words štvrť /ʃtvr̩tʲ/ ("quarter"), and žblnknutie /ʒbl̩ŋknutje/ ("clunk"; "flop") and the Slovene word skrbstvo /skrbstʋo/ ("welfare"). However, the liquid consonants /r/ and /l/ can form syllable nuclei in West and South Slavic languages and behave phonologically as vowels in this case. An example of a true initial cluster is the Polish word wszczniesz (/fʂt͡ʂɲɛʂ/ ("you will initiate").
+In this project I will analyze National Corpus of Polish in terms of consonant and vowel distribution focusing on consonant clusters. Based on the corpus data I will try to find most common cluster models.
